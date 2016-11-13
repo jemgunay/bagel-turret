@@ -8,7 +8,7 @@ https://jemgunay.co.uk/index.php?page=blog&post=9
 ### Dependencies
 PyCamera & Flask (Python 3)
 
-<br><br>
+<br>
 <p align="center">
   <img src="/preview_images/frame4.jpg" width="275"/>
   <img src="/preview_images/frame7.jpg" width="275"/>
