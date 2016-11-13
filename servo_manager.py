@@ -4,9 +4,10 @@ import os
 from numpy import interp
 
 class ServoManager(object):
-	# self.current stores degrees
+	# self.current stores rot (degrees)
 	
 	def __init__(self, pin):
+		# init GPIO
 		GPIO.setwarnings(False)
 		GPIO.setmode(GPIO.BOARD)
 		GPIO.setup(pin, GPIO.OUT)
